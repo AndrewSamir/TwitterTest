@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">TwitterTest</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">oh89Q9Q6cq59pinaa7QX1joP0</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">nUJL3HlF7RFr69vzAWQTVWdmpVS2k11rDICQLAcwyLpJz1QYn2</string>
+</resources>
